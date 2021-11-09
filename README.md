@@ -1,5 +1,5 @@
 # Projects
-Hello, I'm Megan Chen. Information and results from projects where code cannot be shared are linked in this repository.
+Hello, I'm Megan Chen. More detailed information about projects I have worked on have been linked in this repository. 
 
 [Hazel Website](https://github.com/meganc46/Projects/blob/main/README-Hazel.md): A website for an app that teaches users about climate change and helps them offset their carbon footprint.
 
