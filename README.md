@@ -15,8 +15,8 @@ I also have have experience designing products and UI. Here are some sample proj
 
 [Hazel Website](https://www.figma.com/proto/oGZWVaj6wMqHDvjR9w4h3c/Team-1330-Initial-Prototype?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3): UI prototype made for the Hazel website. 
 
-[DAISY '20](https://github.com/meganc46/Projects/blob/main/daisy20-poster.PNG): DAISY '20 is a home decor brand taking inspiration from the Art Deco movement. The displayed product is a clock meant to imitate the lavishness of the 1920's Art Deco style.
+[DAISY '20](https://github.com/meganc46/Projects/blob/main/daisy20-poster.PNG): DAISY '20 is a home decor brand taking inspiration from the Art Deco movement. The displayed product is a clock imitates the lavishness of the 1920's Art Deco style.
 
-[Orbit](https://github.com/meganc46/Projects/blob/main/orbit-poster.PNG): Orbit is the name of a oil and vinegar container set that explores different applications of the 1:1 proportional system in its product design. 
+[Orbit](https://github.com/meganc46/Projects/blob/main/README-Design.md#orbit): Orbit is the name of a oil and vinegar container set that explores applications of the 1:1 proportional system in its product design.
 
 [GhostRed Website](https://www.figma.com/proto/lNSYe4n8MXU4iFJItb4X0v/GhostRed?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2): UI prototype made for the GE GhostRed ctf problem crowdsourcing site. All assets on this draft were created by me. 
