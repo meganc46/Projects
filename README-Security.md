@@ -2,7 +2,7 @@
 
 The goal of this project was design two devices, an ultrasonic rangefinder and a keypad. Devices were defined in VHDL and functionality was tested using Quartus and a DE-10 Lite FPGA. Our team then created a security system simulator to accomplish the demonstrate the functionality of the two devices. 
 
-![LEDs on an FPGA displaying ARMED](Security-preview.png)
+![LEDs on an FPGA displaying ARMED](Security-preview.PNG)
 
 [Product Demonstration Video](https://www.youtube.com/watch?v=gpdC0Uz0qjc)
 
@@ -16,7 +16,7 @@ There are negative aspects to be aware of. The rangefinder does not stop acquisi
 Once a key is pressed, it receives a 16-bit input representative of which key is pressed. The peripheral continuously rotates column by column and outputs whichever key is currently detected.
 While the device supports single key presses, behavior is not defined for multiple keys pressed at once. The following table summarizes the peripheral behavior.
 
-![Table of Devices](Security-table1.png)
+![Table of Devices](Security-table1.PNG)
 
 ## Demonstration
 A security system was created to demonstrate the functionality of the rangefinder and keypad. The keypad receives a password input and the rangefinder detects motion within its measurable range. States change depending on the rangefinder and keypad inputs. A more detailed explanation is shown in the image below. 
