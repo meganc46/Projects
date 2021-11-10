@@ -1,6 +1,6 @@
 # DAISY '20
 
-DAISY '20 is a home decor brand taking inspiration from the Art Deco movement. The displayed product is a clock imitates the lavishness of the 1920's Art Deco style.
+DAISY '20 is a home decor brand taking inspiration from the Art Deco movement. The displayed product prototype is a clock imitates the lavishness of the 1920's Art Deco style.
 
 ![Art Deco inspired clock](daisy20-poster.PNG)
 
