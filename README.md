@@ -6,3 +6,6 @@ Hello, I'm Megan Chen. More detailed information about projects I have worked on
 [Stock Prediction](https://github.com/meganc46/Projects/blob/main/README-Stocks.md): Stock prediction model using sentiment analysis from social media and stock metrics. Used: Python (NumPy, Pandas, Sci-kit Learn, etc.), Jupyter Notebook 
 
 [Security System Simulator](https://github.com/meganc46/Projects/blob/main/README-Security.md): Devices created in Quartus and tested on a DE-10 Lite FPGA. A security system simulator app demonstrates the functionality of the two devices. Used: VHDL, SCOMP (Assembly), Quartus
+
+# Design Projects
+[GhostRed Website](https://www.figma.com/proto/lNSYe4n8MXU4iFJItb4X0v/GhostRed?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2): UI prototype made for the GE GhostRed ctf problem crowdsourcing site. All assets on this draft were created by me. 
