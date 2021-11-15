@@ -16,7 +16,7 @@ Used: VHDL, SCOMP (Assembly), Quartus
 # Design Projects
 I also have have experience designing products and UI. Here are some sample projects.
 
-[Hazel Website](https://www.figma.com/proto/oGZWVaj6wMqHDvjR9w4h3c/Team-1330-Initial-Prototype?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3): UI prototype made for the Hazel website. 
+[Hazel Website](https://www.figma.com/proto/cl4hk8Ucg22Zz8h6nvKMxp/REVISION?node-id=206%3A380&scali%5B%E2%80%A6%5Did=0%3A1&starting-point-node-id=206%3A380&show-proto-sidebar=1&scaling=scale-down): UI prototype made for the Hazel website. 
 
 [DAISY '20](https://github.com/meganc46/Projects/blob/main/daisy20-poster.PNG): DAISY '20 is a home decor brand taking inspiration from the Art Deco movement. The displayed product is a clock imitates the lavishness of the 1920's Art Deco style.
 
